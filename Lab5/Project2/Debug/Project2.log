@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\chazm\source\repos\project2\project2\source.cpp(39): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+c:\users\chazm\source\repos\project2\project2\source.cpp(44): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+  Project2.vcxproj -> C:\Users\chazm\Source\Repos\Project2\Debug\Project2.exe
